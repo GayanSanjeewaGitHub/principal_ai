@@ -12,17 +12,8 @@ Architect innovative AI solutions from ideation to MVP, rapidly enabling genuine
 Optimize AI and cloud architectures to meet client requirements, balancing efficiency, accuracy and effectiveness.
 Provide expert architectural and strategy guidance to clients on incorporating Generative AI into their business and technology landscape.
 
-
-Key Requirements:
-
-
-
-Possess a Degree in Computer Science/Information Technology or related fields.
-Minimum 8 years of architecture design and software engineering.
-Professional-level expertise in Public Cloud environments (AWS, Azure, Google Cloud).
 Expertise in AI model fine-tuning and evaluation, with a focus on improving performance for specialized tasks.
 Demonstrable coding proficiency with Python, Java or Go languages.
 Advanced machine learning algorithms, GenAI models (e.g., GPT, BERT, DALL-E, GEMINI), NLP techniques.
 Working familiarity with Copilot solutions, in both software engineering and office productivity domains.
 Knowledge of GenAI operations (LLMOps), experience Governing AI models in production environments.
-Proficiency in data engineering for AI, including data preprocessing, feature engineering, and pipeline creation
